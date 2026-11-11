@@ -1,6 +1,6 @@
 module github.com/charmbracelet/gum
 
-go 1.19
+go 1.24.5
 
 require (
 	github.com/alecthomas/kong v0.8.1
@@ -14,7 +14,7 @@ require (
 	github.com/muesli/reflow v0.3.0
 	github.com/muesli/roff v0.1.0
 	github.com/muesli/termenv v0.15.2
-	github.com/sahilm/fuzzy v0.1.1-0.20230530133925-c48e322e2a8f
+	github.com/sahilm/fuzzy v0.1.3
 )
 
 require (
@@ -40,7 +40,7 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
 	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sync v0.1.0 // indirect
+	golang.org/x/sync v0.16.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/term v0.13.0 // indirect
 	golang.org/x/text v0.13.0 // indirect
